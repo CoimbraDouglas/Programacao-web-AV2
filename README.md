@@ -12,6 +12,10 @@ Instalar e configurar as bibliotecas essenciais:
 🔗 Axios para comunicação com a API.
 🚀 React Router para a navegação.
 
+
+Tela Inicial da API
+![Descrição da imagem](prints/tela1mobile.jpg)
+
 3. Integração com a API 🔄
 Consultar a documentação da API de produtosLinks para um site externo..
 Criar funções para envio e recebimento de dados utilizando Axios.
