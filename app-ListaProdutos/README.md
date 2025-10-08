@@ -10,30 +10,22 @@ Professor: Leonardo Vieira
 
 🔧 1. Instale o Expo CLI (caso ainda não tenha)
 ```bash
-Copiar
-Editar
 npm install -g expo-cli
 ```
 
 🚀 2. Crie um projeto React Native com Expo
 ```bash
-Copiar
-Editar
 npx create-expo-app nome-do-app
 cd nome-do-app
 ```
 
 📦 3. Instale o Axios para comunicação com API
 ```bash
-Copiar
-Editar
 npm install axios
 ```
 
 🔌 4. Teste localmente
 ```bash
-Copiar
-Editar
 npx expo start
 ```
 Vai abrir o navegador com um QR Code.
@@ -46,8 +38,6 @@ Você pode escanear com o app Expo Go no celular para testar.
 No terminal, rode:
 
 ```bash
-Copiar
-Editar
 npx expo start
 ```
 
@@ -58,38 +48,29 @@ Verifique se os dados da API (https://apipw.leoproti.com.br/produtos) aparecem c
 ✅ ETAPA 2: Compilar e publicar com Expo
 🚀 1. Faça login no Expo (se ainda não fez)
 ```bash
-Copiar
-Editar
 npx expo login
 ```
 
 🆙 2. Publique a versão atualizada online (versão web + mobile Expo Go)
 ```bash
-Copiar
-Editar
 npx expo publish
 ```
 
 Isso vai gerar uma URL como:
 
 perl
-Copiar
-Editar
+
 https://expo.dev/@seu-usuario/nome-do-app
 Essa versão pode ser acessada pelo celular via Expo Go ou pelo navegador!
 
 ✅ ETAPA 3 (opcional): Compilar para app nativo (APK ou AAB)
 📦 Para Android APK:
 ```bash
-Copiar
-Editar
 npx expo build:android
 Esse comando está disponível em projetos com Expo SDK ≤ 48. Se você usa SDK 49 ou superior, use o novo sistema:
 ```
 
 ```bash
-Copiar
-Editar
 npx expo export --platform android
 npx eas build --platform android
 Você será guiado para configurar o EAS Build e criar o APK (Android) ou AAB (para Play Store).
@@ -101,8 +82,6 @@ No app publicado:
 Certifique-se de que a URL da API usada no código está acessível publicamente:
 ```bash
 ts
-Copiar
-Editar
 const API_URL = "https://apipw.leoproti.com.br/produtos";
 Abra o app publicado e veja se os produtos são listados normalmente.
 ```
