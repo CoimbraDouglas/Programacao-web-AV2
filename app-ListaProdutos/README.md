@@ -1,6 +1,9 @@
 # Projeto app-ListaProdutos da disciplina Programacao Web 👋
 
-Esse projeto foi publicado online no link: ✔ Created @coimbradouglas/app-ListaProdutos: https://expo.dev/accounts/coimbradouglas/projects/app-ListaProdutos on EAS
+<h2>Esse projeto foi publicado online no link: ✔ Created @coimbradouglas/app-ListaProdutos: https://expo.dev/accounts/coimbradouglas/projects/app-ListaProdutos on EAS</h2>
+
+Disciplina: Programação WEB
+Professor: Leonardo Vieira
 
 🧩 Parte 1 – Criar e publicar app com Expo
 📱 Expo transforma seu projeto em um app para Android/iOS ou web
@@ -25,22 +28,25 @@ Editar
 npm install axios
 
 🔌 4. Teste localmente
-bash
+```bash
 Copiar
 Editar
 npx expo start
+```
 Vai abrir o navegador com um QR Code.
 Você pode escanear com o app Expo Go no celular para testar.
+
 
 📱Exportar o projeto para o app acessível online
 
 ✅ ETAPA 1: Testar localmente
 No terminal, rode:
 
-bash
+```bash
 Copiar
 Editar
 npx expo start
+```
 Teste no celular com o app Expo Go
 
 Verifique se os dados da API (https://apipw.leoproti.com.br/produtos) aparecem corretamente
@@ -48,9 +54,11 @@ Verifique se os dados da API (https://apipw.leoproti.com.br/produtos) aparecem c
 ✅ ETAPA 2: Compilar e publicar com Expo
 🚀 1. Faça login no Expo (se ainda não fez)
 bash
+```
 Copiar
 Editar
 npx expo login
+```
 🆙 2. Publique a versão atualizada online (versão web + mobile Expo Go)
 bash
 Copiar
