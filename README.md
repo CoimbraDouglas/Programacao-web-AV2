@@ -30,7 +30,6 @@ Instalar e configurar as bibliotecas essenciais:
 
 <h4>3. Integração com a API 🔄</h4>
 
-Consultar a documentação da API de produtosLinks para um site externo..
 Criar funções para envio e recebimento de dados utilizando Axios.
 Implementar um formulário com Material UI para cadastro de produtos.
 Exibir a lista de produtos cadastrados com opções de edição e exclusão.
