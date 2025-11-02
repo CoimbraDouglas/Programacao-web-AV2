@@ -1,7 +1,8 @@
 <h1>Projeto app-ListaProdutos da disciplina Programação Web 👋</h1>
 
-<h3>O aplicativo desse projeto foi publicado online no link: 
-✔ Created @coimbradouglas/app-ListaProdutos: https://expo.dev/accounts/coimbradouglas/projects/app-ListaProdutos on EAS</h3>
+<h3>O aplicativo desse projeto foi publicado online no link: </h3>
+  
+✔ Created @coimbradouglas/app-ListaProdutos: https://expo.dev/accounts/coimbradouglas/projects/app-ListaProdutos on EAS
 
 ---
 
