@@ -56,3 +56,9 @@ Verificar a conexão da aplicação com a API após a hospedagem.
 
 Validar a entrada de dados no formulário para evitar erros.
 Testar todas as funcionalidades garantindo o correto funcionamento.
+
+---
+
+<h4>Autor</h4>
+
+Projeto desenvolvido por Douglas Coimbra.
