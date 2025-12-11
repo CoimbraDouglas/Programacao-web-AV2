@@ -11,11 +11,15 @@
 <h4>Configuração do Ambiente 🛠️</h4>
 
 Instalar o Node.js e configurar o VS Code com extensões recomendadas para React.
+
 Criar um novo projeto React utilizando Vite.
+
 Instalar e configurar as bibliotecas essenciais:
 
 🎨 Material UI para o design do formulário.
+
 🔗 Axios para comunicação com a API.
+
 🚀 React Router para a navegação.
 
 ---
@@ -36,11 +40,11 @@ Instalar e configurar as bibliotecas essenciais:
 
 <h4>Integração com a API 🔄</h4>
 
-Criar funções para envio e recebimento de dados utilizando Axios.
-Implementar um formulário com Material UI para cadastro de produtos.
-Exibir a lista de produtos cadastrados com opções de edição e exclusão.
-Garantir que a comunicação com a API esteja funcionando corretamente.
-Testar a visualização no link de produtosLinks para um site externo.
+- Criar funções para envio e recebimento de dados utilizando Axios.
+- Implementar um formulário com Material UI para cadastro de produtos.
+- Exibir a lista de produtos cadastrados com opções de edição e exclusão.
+- Garantir que a comunicação com a API esteja funcionando corretamente.
+- Testar a visualização no link de produtosLinks para um site externo.
 
 ---
 
