@@ -1,14 +1,10 @@
-<h1>Projeto app-ListaProdutos da disciplina Programação Web 👋</h1>
-
-<h3>O aplicativo desse projeto foi publicado online no link: </h3>
-  
-✔ Created @coimbradouglas/app-ListaProdutos: https://expo.dev/accounts/coimbradouglas/projects/app-ListaProdutos on EAS
+# Projeto app-ListaProdutos da disciplina Programação Web 👋
 
 ---
 
-<h3>Aplicativo de Cadastro de Produtos</h3>
+## Aplicativo de Cadastro de Produtos
 
-<h4>Configuração do Ambiente 🛠️</h4>
+### Configuração do Ambiente 🛠️
 
 Instalar o Node.js e configurar o VS Code com extensões recomendadas para React.
 
@@ -24,7 +20,13 @@ Instalar e configurar as bibliotecas essenciais:
 
 ---
 
-<h4>Tela Inicial da API em mobile</h4>
+### O aplicativo desse projeto foi publicado online no link: 
+  
+✔ Created @coimbradouglas/app-ListaProdutos: https://expo.dev/accounts/coimbradouglas/projects/app-ListaProdutos on EAS
+
+---
+
+### Tela Inicial da API em mobile</h4>
 
 ![Descrição da imagem](prints/tela1mobile.jpg)
 
@@ -38,7 +40,7 @@ Instalar e configurar as bibliotecas essenciais:
 
 ---
 
-<h4>Integração com a API 🔄</h4>
+### Integração com a API 🔄</h4>
 
 - Criar funções para envio e recebimento de dados utilizando Axios.
 - Implementar um formulário com Material UI para cadastro de produtos.
@@ -48,7 +50,7 @@ Instalar e configurar as bibliotecas essenciais:
 
 ---
 
-<h4>Hospedagem 🌍</h4>
+### Hospedagem 🌍</h4>
 
 Testar a aplicação localmente para garantir que está funcionando corretamente.
 Publicar no Vercel, garantindo acessibilidade online.  Para hospedar e comunicar com o api usar **https://apipw.leoproti.com.br/produtos**
@@ -56,13 +58,13 @@ Verificar a conexão da aplicação com a API após a hospedagem.
 
 ---
 
-<h4>Testes e Melhorias ✅</h4>
+### Testes e Melhorias ✅</h4>
 
 Validar a entrada de dados no formulário para evitar erros.
 Testar todas as funcionalidades garantindo o correto funcionamento.
 
 ---
 
-<h4>Autor</h4>
+### Autor
 
 Projeto desenvolvido por Douglas Coimbra.
