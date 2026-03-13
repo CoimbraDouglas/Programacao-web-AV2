@@ -53,7 +53,7 @@ Instalar e configurar as bibliotecas essenciais:
 ### Hospedagem 🌍</h4>
 
 Testar a aplicação localmente para garantir que está funcionando corretamente.
-Publicar no Vercel, garantindo acessibilidade online.  Para hospedar e comunicar com o api usar **https://apipw.leoproti.com.br/produtos**
+Publicar no Vercel, garantindo acessibilidade online. Para hospedar e comunicar com o api usar **https://apipw.leoproti.com.br/produtos**
 Verificar a conexão da aplicação com a API após a hospedagem.
 
 ---
@@ -67,4 +67,4 @@ Testar todas as funcionalidades garantindo o correto funcionamento.
 
 ### Autor
 
-Projeto desenvolvido por Douglas Coimbra.
+Projeto desenvolvido por Douglas Coimbra em atividade da disciplina Programação Web.
