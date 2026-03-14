@@ -6,7 +6,7 @@
 
 ### Configuração do Ambiente 🛠️
 
-Instalar o Node.js e configurar o VS Code com extensões recomendadas para React.
+Instalar o `Node.js` e configurar o `VS Code` com extensões recomendadas para React.
 
 Criar um novo projeto React utilizando Vite.
 
@@ -67,4 +67,4 @@ Testar todas as funcionalidades garantindo o correto funcionamento.
 
 ### Autor
 
-Projeto desenvolvido por Douglas Coimbra em atividade da disciplina Programação Web.
+Projeto desenvolvido por **Douglas Coimbra** em atividade da disciplina *Programação Web*.
