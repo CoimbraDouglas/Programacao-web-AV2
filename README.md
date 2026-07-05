@@ -26,7 +26,7 @@ Instalar e configurar as bibliotecas essenciais:
 
 ---
 
-### Tela Inicial da API em mobile</h4>
+### Visual da Tela Inicial da API em mobile</h4>
 
 ![Descrição da imagem](prints/tela1mobile.jpg)
 
