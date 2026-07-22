@@ -46,6 +46,7 @@ Instalar e configurar as bibliotecas essenciais:
 - Implementar um formulário com Material UI para cadastro de produtos.
 - Exibir a lista de produtos cadastrados com opções de edição e exclusão.
 - Garantir que a comunicação com a API esteja funcionando corretamente.
+- Garante a segurança dos dados no sistema
 - Testar a visualização no link de produtosLinks para um site externo.
 
 ---
