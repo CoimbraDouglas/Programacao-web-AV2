@@ -1,8 +1,4 @@
-# Projeto app-ListaProdutos da disciplina Programação Web 👋
-
----
-
-## Aplicativo de Cadastro de Produtos
+# Aplicativo de Cadastro de Produtos
 
 ### Configuração do Ambiente 🛠️
 
@@ -63,6 +59,12 @@ Verificar a conexão da aplicação com a API após a hospedagem.
 
 Validar a entrada de dados no formulário para evitar erros.
 Testar todas as funcionalidades garantindo o correto funcionamento.
+
+---
+
+### Disciplina Programação Web 👋
+
+Projeto acadêmico desenvolvido na escola Newton Paiva.
 
 ---
 
